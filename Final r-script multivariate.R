@@ -178,7 +178,7 @@ dat %>%
 # recall that standard errors are NOT preserved in cluster creation
 # note that models with controls will vary more from full data estimates due to additional error from averaging control variables within clusters
 
-#All the tables are commented on in the document Tables.docx.
+#All variables can be found in the Tables doc.x document
 
 # declare covariates 
 covs_ad <- c("x_f_ad_36_40", "x_f_ad_41_45", "x_f_ad_46_50",
